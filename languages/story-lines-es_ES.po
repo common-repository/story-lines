@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Story Lines\n"
+"POT-Creation-Date: 2016-11-19 20:39-0600\n"
+"PO-Revision-Date: 2016-11-19 20:39-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: story-lines.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/story-lines-admin.php:24
+msgid "Add Story Lines"
+msgstr "Añadir líneas de la historia"
+
+#: admin/story-lines-admin.php:43
+msgid "Title:"
+msgstr "Titulo"
+
+#: admin/story-lines-admin.php:48
+msgid "Size (as a percentage): "
+msgstr "Tamaño (en porcentaje):"
+
+#: admin/story-lines-admin.php:53
+msgid "Float:"
+msgstr "Flotado"
+
+#: admin/story-lines-admin.php:67
+msgid "Background Color for title section"
+msgstr "Color de fondo de la sección de título"
+
+#: admin/story-lines-admin.php:72
+msgid "Background Color for main section"
+msgstr "Color de fondo de sección principal"
+
+#: admin/story-lines-admin.php:77
+msgid "Color for the title text"
+msgstr "Color para el texto del título"
+
+#: admin/story-lines-admin.php:82
+msgid "Color for text of the main section"
+msgstr "Color para el texto de la sección principal"
+
+#: admin/story-lines-admin.php:93 admin/story-lines-admin.php:114
+#: admin/story-lines-admin.php:131
+msgid "Story Line:"
+msgstr "Línea de la historia:"
+
+#: admin/story-lines-admin.php:102 admin/story-lines-admin.php:119
+#: admin/story-lines-admin.php:136
+msgid "Anchor ID:"
+msgstr "ID del ancla:"
+
+#: admin/story-lines-admin.php:105 admin/story-lines-admin.php:123
+#: admin/story-lines-admin.php:140
+msgid "Remove Line"
+msgstr "Eliminar una línea"
+
+#: admin/story-lines-admin.php:144
+msgid "Add Story Line"
+msgstr "Agregue la línea de la historia"
+
+#: admin/story-lines-help.php:14
+msgid "Story Lines Help"
+msgstr "Ayuda de líneas de la historia"
+
+#: admin/story-lines-help.php:16
+msgid "Anchor Links"
+msgstr "Enlaces de anclaje"
+
+#: admin/story-lines-help.php:16
+msgid ""
+"To create and add anchor links to the story lines, first wrap the area you "
+"want to jump to in a div or span and give the element an id (i.e. &lt;span "
+"id=\"your-id\"&gt;). Then add the id you have given the section to the "
+"appropriate story line."
+msgstr ""
+"Para crear y agregar enlaces de anclaje a las líneas de la historia, primero "
+"Envuelva la zona que desea saltar en un div o span y el elemento id (es "
+"decir, &lt;span id = \"tu id\"&gt). Luego agregar la id han dado parte a la "
+"línea correspondiente de la historia."
+
+#: story-lines-widget.php:22
+msgid "Story Lines Widget"
+msgstr "Widget de líneas de la historia"
+
+#. Plugin Name of the plugin/theme
+#: story-lines-widget.php:48 story-lines.php:67
+msgid "Story Lines"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jacobmartella.com/wordpress/wordpress-plugins/story-lines"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add a list of story highlights at the top of your posts to let your readers "
+"really know what your story is all about."
+msgstr ""
+"Agregar que una lista de historia pone de relieve en la parte superior de "
+"tus posts para saber tus lectores realmente su historia es."
+
+#. Author of the plugin/theme
+msgid "Jacob Martella"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jacobmartella.com"
+msgstr ""
+
+#~ msgid " Color for text of the main section"
+#~ msgstr "Color para el texto de la sección principal"

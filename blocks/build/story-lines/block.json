@@ -1,0 +1,55 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "story-lines/story-lines",
+  "version": "0.1.0",
+  "title": "Story Lines",
+  "category": "widgets",
+  "description": "Example block scaffolded with Create Block tool.",
+  "attributes": {
+    "story_lines_highlights": {
+      "type": "array",
+      "default": []
+    },
+    "story_lines_title": {
+      "type": "string",
+      "default": "Story Lines"
+    },
+    "storyLinesTitleBackgroundColor": {
+      "type": "string",
+      "default": "#000000"
+    },
+    "storyLinesMainBackgroundColor": {
+      "type": "string",
+      "default": "#252525"
+    },
+    "storyLinesTitleColor": {
+      "type": "string",
+      "default": "#FFFFFF"
+    },
+    "storyLinesMainColor": {
+      "type": "string",
+      "default": "#FFFFFF"
+    }
+  },
+  "supports": {
+    "align": [
+      "wide",
+      "full"
+    ],
+    "html": false,
+    "color": {
+      "gradients": true,
+      "link": true,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    },
+    "__experimentalLayout": true
+  },
+  "textdomain": "story-lines",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
